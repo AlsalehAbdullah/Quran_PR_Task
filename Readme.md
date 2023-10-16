@@ -1,3 +1,6 @@
+# Introduction
+This is LKAU23 Team effort on the Quran QA 2023 Task A Passage Retrieval. 
+
 # Please follow the instructions
 
 For Task A, there are three files that are submitted for the competition. Two are from individual models and the last one is an ensemble of two models.
@@ -15,3 +18,6 @@ So, the order is:
 
 # For folder 'Step 2 Ensemble':
 We take the two files that have top 20 answers, then ensemble them and later delete the duplicates and cap it at 10 answers. Later, we save the file.
+
+# Citation
+Please use this if needed. Thank you
